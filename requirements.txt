@@ -1,0 +1,17 @@
+pyrogram
+TgCrypto
+python-dotenv
+tgcrypto
+wget
+pytube
+yt_dlp
+youtube-search-python
+ffmpeg-python
+
+sqlalchemy~=1.3.23
+
+#onlyneedthis
+pytube
+youtube-search
+psycopg2-binary
+requests
